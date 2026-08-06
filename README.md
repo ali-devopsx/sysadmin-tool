@@ -11,7 +11,7 @@ Linux Admin Toolkit is a powerful script designed to automate various administra
 - **Open Ports Check** (List all open network ports)
 - **Process Management** (View and Kill Processes)
 
-# 🛠 Installation
+# Installation
 To use this script, follow these steps:
 
 ```bash
